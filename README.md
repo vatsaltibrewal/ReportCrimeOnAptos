@@ -46,8 +46,9 @@ The **Decentralized Crime Reporting DApp** aims to provide a secure and anonymou
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/decentralized-crime-reporting-dapp.git
-   cd decentralized-crime-reporting-dapp
+   git clone https://github.com/vatsaltibrewal/ReportCrimeOnAptos.git
+   cd ReportCrimeOnAptos
+   cd Frontend
    ```
 
 2. **Install dependencies**:
