@@ -2,6 +2,8 @@
 
 ### A decentralized platform built on the Aptos blockchain to securely and anonymously report crimes using a blockchain-based system. This DApp ensures the integrity, immutability, and transparency of reports submitted by users, while also protecting user identities.
 
+Module Address  on Devnet - 0f38bcadcc3760f984853fd21675cbd9bbaba0c3cb74ece3574719357b964616
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
